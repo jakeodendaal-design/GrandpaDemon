@@ -35,3 +35,6 @@ The difficulties of extreme demons are chosen based on their positions on the [A
 
 * **AeonAir** for making me do this out of spite in the first place
 
+*  **bocaj583** for forking this to 2.2081
+
+
