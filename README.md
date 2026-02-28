@@ -1,5 +1,5 @@
 # Grandpa Demon
-A mod created by ItzKiba.
+A mod created by ItzKiba.(And forked by bocaj583)
 
 ![Title](resources/readme/difficulties.png)
 
@@ -32,4 +32,5 @@ The difficulties of extreme demons are chosen based on their positions on the [A
 ## Credits
 * **tcoffa** for creating the original Grandpa Demon sprite
 * **Geode's Discord** for answering my stupid questions
+
 * **AeonAir** for making me do this out of spite in the first place
